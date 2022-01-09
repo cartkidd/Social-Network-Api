@@ -4,8 +4,8 @@
 https://watch.screencastify.com/v/QJuqYYTpGhnYl47wwtyU
 
 # Table of Contents
-Description
-Contributing
+### Description
+## Contributing
 
 # Installation
 npm init
